@@ -1,28 +1,17 @@
-<h1 align="center">Hi, I'm Arnav Panda</h1>
+# Arnav Panda
 
-<p align="center">Financial Engineering · AI · Computational Finance · Quantitative Finance</p>
+**BITS Pilani** · Economics & Electronics · Quantitative Finance · Machine Learning
 
-## About
+I'm a dual-degree student at BITS Pilani, pursuing an M.Sc. in Economics and a B.E. in Electronics & Instrumentation.
 
-I'm interested in the intersection of finance, mathematics, and technology, especially financial engineering, AI, and quantitative methods.
+My interests lie at the intersection of mathematics, computing, and finance, particularly in quantitative research, financial engineering, and machine learning.
 
-## Interests
+### Areas of Interest
 
-- Financial engineering and quantitative finance
-- Computational finance and numerical methods
-- AI and machine learning for financial applications
+- **Quantitative Finance:** Stochastic processes, financial modelling, and numerical methods
+- **Machine Learning:** Statistical learning, applied AI, and data-driven modelling
+- **Software Engineering:** Algorithms, C++, Python, and computational problem-solving
 
-## GitHub
+### Currently Exploring
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pipinstallarnavs&show_icons=true&hide_border=true" alt="Arnav's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipinstallarnavs&layout=compact&hide_border=true" alt="Most-used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pipinstallarnavs&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pipinstallarnavs&hide_border=true" alt="GitHub contribution streak" />
-</p>
+I'm focused on strengthening my foundations in mathematical finance, machine learning, and high-performance computing while building practical projects in these areas.
